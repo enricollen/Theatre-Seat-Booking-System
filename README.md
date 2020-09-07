@@ -11,7 +11,7 @@ METHOD 1 (import project from zip):
 5. Import
 6. Clean & Build Project
 7. Before launching the project, open the InScena folder (the project folder path you choose at point 4) and launch the "serverLog.bat" script 
-8. Now you can go back to NetBeans and double tap on InScena in the left panel > doble tap the open the Source Packages > double tap on <default package> 
+8. Now you can go back to NetBeans and double tap on InScena in the left panel > doble tap the open the Source Packages > double tap on 'default package'
 9. Scroll down till you find "InScena.java"
 10. Right click > Run
 11. Enjoy
@@ -28,7 +28,7 @@ METHOD 2 (extract zip file, and import as "Open project" in NetBeans):
 2. Go to File > Open Project > select InScena
 5. Clean & Build Project
 6. Before launching the project, open the InScena folder in Desktop and launch the "serverLog.bat" script 
-7. Now you can go back to NetBeans and double tap on InScena in the left panel > doble tap the open the Source Packages > double tap on <default package> 
+7. Now you can go back to NetBeans and double tap on InScena in the left panel > doble tap the open the Source Packages > double tap on 'default package' 
 8. Scroll down till you find "InScena.java"
 9. Right click > Run
 10. Enjoy

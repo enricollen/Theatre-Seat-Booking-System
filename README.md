@@ -32,3 +32,13 @@ METHOD 2 (extract zip file, and import as "Open project" in NetBeans):
 8. Scroll down till you find "InScena.java"
 9. Right click > Run
 10. Enjoy
+
+
+
+Screenshoots: <br>
+<a href="https://ibb.co/B6BRnHL"><img src="https://i.ibb.co/ZgxC2Rd/inscena1.png" alt="inscena1" border="0"></a>
+<a href="https://ibb.co/MgYrPZg"><img src="https://i.ibb.co/51NmsG1/inscena2.png" alt="inscena2" border="0"></a>
+
+<br>Server log: <br>
+<a href="https://ibb.co/h14SP2Q"><img src="https://i.ibb.co/5xSPNsp/log-xml.png" alt="log-xml" border="0"></a>
+<a href="https://ibb.co/mq584t2"><img src="https://i.ibb.co/58hFLvS/log.png" alt="log" border="0"></a>
